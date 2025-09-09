@@ -19,7 +19,7 @@ java SumOfDigits
 
 Sum of digits: 29
 
-## 📌 Problem 2: Sum of Digits
+## 📌 Problem 2: Multiply of Digits
 **Problem Statement:**  
 Write a program to find the multiple of digits of a given number.
 
@@ -33,3 +33,20 @@ javac MulOfDigits.java
 java MulOfDigits
 
 Multilpe of digits: 24 
+
+----
+
+## 📌 Problem 3: Count of Digits
+**Problem Statement:**  
+Write a program to count the number of digits in a given number.
+
+**Example**
+Input:9875 Process:Digits are 9,8,7,5 Count: 4
+
+
+**How to Run**
+```bash
+javac CountOfDigits.java
+java CountOfDigits
+
+Count of digits: 4 
