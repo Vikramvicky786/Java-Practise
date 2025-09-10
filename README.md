@@ -88,7 +88,21 @@ Input:1245678 Process: Here in the input the number 8 is the maximum Output: 8
 
 **How to Run**
 ```bash
-javac FirstMax.java
-java FirstMax
+javac FirstMaximum.java
+java FirstMaximum
 
 Output = 8
+
+## 📌 Problem 7: Third Maximum
+**Problem Statement:**  
+Write a program to find Third maximum number in an array.
+**Example**
+Input:1245678 Process: Here in the input the number 6 is the maximum Output: 6
+
+
+**How to Run**
+```bash
+javac ThirdMaximum.java
+java ThirdMaximum
+
+Output = 6
