@@ -60,8 +60,8 @@ Input:371 Process: Since there are 3 digits, we're powering each digit with 3. s
 
 **How to Run**
 ```bash
-javac CountOfDigits.java
-java CountOfDigits
+javac ArmstrongNumber.java
+java ArmstrongNumber
 
 Output = 371
 
@@ -74,7 +74,21 @@ Input:135 Process: Since there are 3 digits, we're powering each digit with resp
 
 **How to Run**
 ```bash
-javac CountOfDigits.java
-java CountOfDigits
+javac DisariumNumber.java
+java DisariumNumber
 
 Output = "It's an Disarium number"
+
+## 📌 Problem 6: First Maximum
+**Problem Statement:**  
+Write a program to find first maximum number in an array.
+**Example**
+Input:1245678 Process: Here in the input the number 8 is the maximum Output: 8
+
+
+**How to Run**
+```bash
+javac FirstMax.java
+java FirstMax
+
+Output = 8
