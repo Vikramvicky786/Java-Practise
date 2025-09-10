@@ -50,3 +50,17 @@ javac CountOfDigits.java
 java CountOfDigits
 
 Count of digits: 4 
+
+## 📌 Problem 4: Armstrong Number
+**Problem Statement:**  
+Write a program to check whether the given number is Armstrong or not.
+**Example**
+Input:371 Process: Since there are 3 digits, we're powering each digit with 3. so 3³ + 7³ + 1³ = 371 Output: 371
+
+
+**How to Run**
+```bash
+javac CountOfDigits.java
+java CountOfDigits
+
+Output = "It's an Armstrong number"
