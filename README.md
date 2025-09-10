@@ -63,4 +63,18 @@ Input:371 Process: Since there are 3 digits, we're powering each digit with 3. s
 javac CountOfDigits.java
 java CountOfDigits
 
-Output = "It's an Armstrong number"
+Output = 371
+
+## 📌 Problem 5: Disarium Number
+**Problem Statement:**  
+Write a program to check whether the given number is Disarium or not.
+**Example**
+Input:135 Process: Since there are 3 digits, we're powering each digit with respective to their units. so 1¹ + 2² + 5³ = 135 Output: 135
+
+
+**How to Run**
+```bash
+javac CountOfDigits.java
+java CountOfDigits
+
+Output = "It's an Disarium number"
